@@ -1,0 +1,11 @@
+# 凭证 / 私钥 / 证书，切勿提交
+cert_config.zip
+*.pem
+*.key
+config/cert_config.zip
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.env
